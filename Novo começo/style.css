@@ -1,0 +1,26 @@
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}
+
+root { 
+    --bg-color: #1F1F39;
+    --bg-text: #1F1F39B2;
+}
+
+body {
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
